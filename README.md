@@ -15,17 +15,17 @@ My background spans hands-on hardware (PCB design, Arduino/Raspberry Pi, softwar
 
 | Project | Description |
 |---|---|
-| [External Optical Modulation for DTE Comms Terminal, Odysseus Space](#) | Master's thesis: RF amplifier and bias controller design for a Mach-Zehnder Modulator in a Direct-to-Earth free-space optical comms terminal |
-| [National QKD Terrestrial Network Architecture](#) | Researched and contributed to functional architecture for a national Quantum Key Distribution terrestrial network, part of a broader European quantum-secured infrastructure effort |
-| [AI CommSat-1, Modular Open CubeSat Platform](#) | Personal project: modular, EU-standards-compliant CubeSat platform for students and hobbyists. OBC, TT&C, EPS, and sensors (website coming soon) |
-| [Hot-Swap Power Circuit for CubeSat TT&C Antenna](#) | KiCad-designed circuit enabling seamless primary/backup power rail failover for a CubeSat TT&C antenna, ZfT, Würzburg |
-| [GPS Signal Reception using SDR](#) | GPS L1 receiver built with an ADALM-Pluto SDR. Signal acquisition, C/A code correlation, satellite/Doppler identification |
-| [CanSat Design Lab](#) | Team-built CanSat with deployable 3D-printed housing; electronics integration role |
-| [Atmospheric Data Visualization GUI](#) | MATLAB GUI visualizing 16 years of satellite, model, and ground-based atmospheric data (Physical Research Laboratory) |
-| [5G CubeSat Communication Payload & TT&C, Phase A Study (Team Project)](#) | Team Phase A study for a 5G CubeSat mission's communication payload and TT&C system with inter-satellite link |
-| [SDR-based NOAA Weather Satellite Receiver](#) | RTL-SDR receiver for NOAA polar-orbiting weather satellite signals |
-| [Radio Star Tracking Platform](#) | Raspberry Pi-controlled 2-axis antenna mount for radio astronomy via SDR |
-| [E-Challan Fingerprint Device](#) | BeagleBone-based biometric traffic ticketing device, IICDC Quarter-finalist |
+| [External Optical Modulation for DTE Comms Terminal, Odysseus Space](https://github.com/MahirShahs-Lab/External-Optical-Modulation-for-DTE-Comms-Terminal) | Master's thesis: RF amplifier and bias controller design for a Mach-Zehnder Modulator in a Direct-to-Earth free-space optical comms terminal |
+| [System Architecture for Terrestrial QKD](https://github.com/MahirShahs-Lab/System-Architecture-for-Terrestrial-QKD) | Researched and contributed to functional architecture for a national Quantum Key Distribution terrestrial network, part of a broader European quantum-secured infrastructure effort |
+| [AI CommSat-1, Modular Open CubeSat Platform](https://github.com/MahirShahs-Lab/AI-CommSat-1-Modular-Open-CubeSat-Platform) | Personal project: modular, EU-standards-compliant CubeSat platform for students and hobbyists. OBC, TT&C, EPS, and sensors (website coming soon) |
+| [Hot-Swap Power Circuit for CubeSat TT&C Antenna](https://github.com/MahirShahs-Lab/Hot-Swap-Power-Circuit-for-CubeSat-TT-C-Antenna) | KiCad-designed circuit enabling seamless primary/backup power rail failover for a CubeSat TT&C antenna, ZfT, Würzburg |
+| [GPS Signal Reception using SDR](https://github.com/MahirShahs-Lab/GPS-Signal-Reception-using-ADALM-Pluto-Software-Defined-Radio) | GPS L1 receiver built with an ADALM-Pluto SDR. Signal acquisition, C/A code correlation, satellite/Doppler identification |
+| [CanSat Design Lab](https://github.com/MahirShahs-Lab/CanSat-Design-Lab) | Team-built CanSat with deployable 3D-printed housing; electronics integration role |
+| [Atmospheric Data Visualization GUI](https://github.com/MahirShahs-Lab/Atmospheric-Parameter-Visualization-Tool) | MATLAB GUI visualizing 16 years of satellite, model, and ground-based atmospheric data (Physical Research Laboratory) |
+| [5G CubeSat Communication Payload & TT&C, Phase A Study (Team Project)](https://github.com/MahirShahs-Lab/5G-CubeSat-Communication-Payload-TT-C-Phase-A-Study) | Team Phase A study for a 5G CubeSat mission's communication payload and TT&C system with inter-satellite link |
+| [SDR-based NOAA Weather Satellite Receiver](https://github.com/MahirShahs-Lab/SDR-based-NOAA-Weather-Satellite-Receiver) | RTL-SDR receiver for NOAA polar-orbiting weather satellite signals |
+| [Radio Star Tracking Platform](https://github.com/MahirShahs-Lab/Radio-Star-Tracking-Platform-using-SDR) | Raspberry Pi-controlled 2-axis antenna mount for radio astronomy via SDR |
+| [E-Challan Fingerprint Device](https://github.com/MahirShahs-Lab/E-Challan-Device-using-Fingerprint-Scanner) | BeagleBone-based biometric traffic ticketing device, IICDC Quarter-finalist |
 
 *(Links will be updated as each repository goes live.)*
 
